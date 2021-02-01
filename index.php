@@ -156,7 +156,7 @@
   <!-- END SECTION -->
 
   <!-- Media Section -->
-  <section id="layout" class="section-space creative-demo-section highlight-on-scroll mb-5" >
+  <section id="layout" class="section-space creative-demo-section highlight-on-scroll mb-3" >
     <div class="container">
       <div class="row">
         <div class="col-sm-12">
@@ -191,7 +191,7 @@
         </div>
         <div class="col-md-4 mb-5">
           <div class="img-effect">
-            <img class="img-fluid creative-img" src="assets/Images/albumss/illustration1.png">
+            <img class="img-fluid creative-img" src="assets/Images/albumss/illustration2.png">
             <div class="creative_img_content">
               <h4>Forum Diskusi</h4>
               <p>
