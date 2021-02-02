@@ -48,7 +48,7 @@
     <div class="hero-container">
       <div class="wow fadeIn">
         <div class="hero-logo">
-          <img class="" src="assets/Images/logo/scjbwhite.png" alt="SCJ-Logo-by-Andynhov">
+          <img class="mb-1" src="assets/Images/logo/scjbwhite.png" width="25%" alt="SCJ-Logo-by-Andynhov">
         </div>
 
         <h1>Welcome to Sekolah Coding Jakarta</h1>
@@ -132,7 +132,7 @@
                 <img src="assets/Images/albumss/about.jpg" alt="">
               </div>
 
-              <div class="col-md-6 about-content">
+              <div class="col-md-6 about-content mt-2">
                 <h6 class="about-title">Tempat belajar coding terbaik di Indonesia</h6>
                 <p class="about-text">
                   Selamat datang kaula muda para generasi penerus bangsa.  Salam teknologi untuk kita semua.
@@ -276,7 +276,7 @@
   <section id="testimonials">
     <div class="container wow fadeInUp mb-5">
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-12 mb-3">
           <h3 class="section-title">Testimonials</h3>
           <div class="section-title-divider"></div>
           <p class="section-description">Mari kita simak testimoni dari member sekolah coding jakarta</p>
@@ -305,7 +305,7 @@
           </div>
         </div>
         <div class="col-md-3">
-          <div class="profile">
+          <div class="profile prof-putri">
             <div class="pic"><img src="assets/Images/albumss/client2.jpg" alt=""></div>
             <h4>Putri Yurnalis</h4>
             <span>Developer at Shopee</span>
@@ -348,9 +348,9 @@
     <!--contact section start-->
     <div class="contact-section mt-5 mb-2" id="contact-us">
       <div class="contact-info">
-        <div><i class="fas fa-map-marker-alt"></i>Cipete, Jakarta Selatan, Indonesia</div>
-        <div><i class="fas fa-envelope"></i>tryexample15@gmail.com</div>
-        <div><i class="fas fa-phone"></i>+62 12344321</div>
+        <div><i class="fas fa-map-marker-alt"></i> Cipete, Jakarta Selatan, Indonesia</div>
+        <div><i class="fas fa-envelope"></i> >tryexample15@gmail.com</div>
+        <div><i class="fas fa-phone"></i> +62 12344321 </div>
         <div><i class="fas fa-clock"></i>Mon - Fri 8:00 AM to 4:00 PM</div>
       </div>
       <div class="contact-form">

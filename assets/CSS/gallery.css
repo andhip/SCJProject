@@ -674,6 +674,12 @@ h6.page-title {
         .navbar-home {
             margin-inline-end: 60% ;
         }
+
+        .modal .modal-dialog .modal-content{
+            width: 100%;
+            margin: 0 auto;
+
+        }
         
         .carousel-item .carousel-caption img{
             width: 70%;
@@ -770,12 +776,5 @@ h6.page-title {
 
 
 }
-        /*=======Ip-6,7,8=======*/
-    @media only screen 
-    and (min-device-width: 375px) 
-    and (max-device-width: 667px) 
-    and (-webkit-min-device-pixel-ratio: 2) { 
-        
-   
-}
+
 
