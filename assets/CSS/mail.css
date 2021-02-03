@@ -126,8 +126,8 @@
   min-width: 420px;
   position: fixed;
   right: 0;
-  top: 55px;
-  border-left: 8px solid #3AD66E;
+  top: 60px;
+  border-left: 8px solid #03C4EB;
   border-radius: 4px;
 }
 
@@ -139,7 +139,7 @@
   min-width: 420px;
   position: fixed;
   right: 0;
-  top: 55px;
-  border-left: 8px solid #FFA502;
+  top: 60px;
+  border-left: 8px solid rgba(255, 0, 0, 0.884);
   border-radius: 4px;
 }
