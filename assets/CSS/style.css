@@ -361,9 +361,11 @@ header .list-inline .list-inline-item {
     padding: 80px 0;
   }
   
-  #about .about-img {
-    overflow: hidden;
+  #about h3.section-title {
+    justify-content: center !important;
+    align-items: center !important;
   }
+ 
   #about p{
     color: #9098ac;
     font-weight: 600;
@@ -522,7 +524,7 @@ header .list-inline .list-inline-item {
 /* Subscribe Section
 --------------------------------*/
 #subscribe {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../Images/albumss/kegiatan1.jpg) fixed center center;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../Images/albumss/kegiatan1.jpg) center center;
     background-size: cover;
     padding: 80px 0;
   }
@@ -661,6 +663,53 @@ header .list-inline .list-inline-item {
   text-decoration: none;
 }
 
+/* =======Install APP======= */
+#inst-app {
+  margin-top: 6.7rem;
+  background:  rgba(230, 243, 243, 0.959) ;
+}
+#inst-app h3.inst-title{
+ font-weight: 600;
+}
+#inst-app img{
+  display: flex;
+}
+#inst-app .download-btn{
+  display: inline-block;
+  text-align: center;
+  border-radius: 4px;
+  background-color: #1483dd;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 16px;
+  padding: 10px;
+  width: 200px;
+  transition: all 0.4s;
+  cursor: pointer;
+}
+#inst-app .download-btn:hover{
+  background-color: #445bdafd;
+  text-decoration: none;
+  box-shadow:  2px 6px 14px rgba(177, 177, 177, 0.521)
+}
+#inst-app .desc-phone{
+  margin-top: 4.7rem;
+  margin-left: 3rem;
+  
+}
+
+@media (max-width: 768px) {
+  #inst-app img {
+    height: auto;
+    margin-left: 0;
+    width: 450px;
+  }
+  #inst-app h3{
+    font-size: 24px;
+  }
+ 
+}
 
 /* Testimonials Section
 --------------------------------*/
@@ -1072,7 +1121,7 @@ th, td {
   cursor: pointer;
 }
 .button-ls:hover{
-  box-shadow:  2px 10px 30px #b1b1b1ad;
+  box-shadow:  2px 8px 20px #b1b1b1ad;
 }
 
 /* =============PPDB============= */
@@ -1126,7 +1175,7 @@ th, td {
     width: 215px;
     transition: all 0.5s;
     cursor: pointer;
-    box-shadow:  2px 12px 32px #b1b1b1af;
+    box-shadow:  2px 7px 14px #b1b1b1af;
 
   }
 

@@ -116,12 +116,12 @@
 
         <!-- ======= About Section ======= -->
         <section id="about" >
-          <div class="container wow fadeInUp">
+          <div class="container ">
             <div class="row">
               <div class="col-md-12">
-                <h3 class="section-title">Intro</h3>
-                <div class="section-title-divider"></div>
-                <p class="section-description">Selamat datang di website resmi sekolah coding jakarta</p>
+                <h3 class="section-title">Raih karir impian bersama Sekolah Coding Jakarta</h3>
+                <div class="section-title-divider mb-5"></div>
+              
               </div>
             </div>
           </div>
@@ -209,8 +209,67 @@
           </div>
         </div>
         
+      </div>
+
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="creative-demo-content mt50 mt-5 mb-5">
+            <div class="counting">
+              <h3>
+                Pilihan Kelas
+               
+              </h3>
+              <div class="section-title-divider"></div>
+
+            </div>
+            <p>
+              Beberapa pilihan kelas di Sekolah Coding Jakarta
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container container-modify">
+      <div class="row">
+        <div class="col-md-3 mb-5">
+      
+            <img class="img-fluid creative-img" src="assets/Images/albumss/ico-fullstack.png">
+            <div class="creative_img_content">
+              <h5>Full-stack Web Dev</h5>
+           
+            </div>
+          </div>
+    
+        <div class="col-md-3 mb-5">
+      
+            <img class="img-fluid creative-img" src="assets/Images/albumss/ico-android.png">
+            <div class="creative_img_content">
+              <h5>Android Engineering</h5>
+
+            </div>
+       
+        </div>
+        <div class="col-md-3 mb-5">
+        
+            <img class="img-fluid creative-img" src="assets/Images/albumss/ico-uiux.png">
+            <div class="creative_img_content">
+              <h5>UI/UX Design & Research</h5>
+            
+            </div>
+      
+        </div>
+        <div class="col-md-3 mb-5">
+        
+            <img class="img-fluid creative-img" src="assets/Images/albumss/ico-pm.png">
+            <div class="creative_img_content">
+              <h5>Product Management</h5>
+             
+            </div>
+        
+        </div>
+        
         <!-- KLIK DAFTAR -->
-        <div class="container mt-3 align-items-center btn-pendaftaran2">
+        <div class="container mt-3 mb-5 align-items-center btn-pendaftaran2">
           <div class="row">
             <div class="col-md-12 col-xs-12 ">
               <a href="mediabelajar.html"><button class="button-ls" style="vertical-align:middle">Lihat
@@ -220,41 +279,10 @@
         </div>
 
       </div>
+      
     </div>
   </section>
 
-  <!-- ======== Instruktur ======== -->
-  <section id="instruktur" class="section-space creative-demo-section highlight-on-scroll mb-5" >
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-12">
-          <div class="creative-demo-content mt50 mt-5 mb-5">
-            <div class="counting">
-              <h3>
-                Instruktur
-              </h3>
-              <div class="section-title-divider"></div>
-
-            </div>
-            <p>
-              Instruktur pemrograman di sekolah coding jakarta
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-
-          <div class="col-md-12 mt-3 justify-content-center align-items-center creative-demo-content2">
-              <img class="img-fluid creative-img2" src="assets/Images/albumss/headmaster.jpg" width="240px">
-              <div class="creative_img_content">
-                <a href="team.html"  style="text-decoration:none"><h3 id="title-name">Alexander Budiyanto S.T., M.T.</h3></a>
-                <p>Instruktur | Headmaster</p>
-              </div>
-          </div>
-    
-      </div>
-    </div>
-  </section>
  
   <!-- ======= Banner Section ======= -->
   <section id="subscribe">
@@ -316,6 +344,90 @@
     </div>
   </section><!-- End Testimonials Section -->
 
+  <!-- Media Section -->
+  <section id="comp-trust" class="section-space creative-demo-section highlight-on-scroll mb-3" >
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="creative-demo-content mt50 mt-5 mb-5">
+            <div class="counting">
+              <h3>
+                Dipercayai oleh
+              </h3>
+              <div class="section-title-divider"></div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container mt-4 container-modify">
+      <div class="row">
+        <div class="col-md-3 mb-5">
+          <div >
+            <img class="img-fluid creative-img" src="assets/Images/albumss/logo-tokopedia.png">
+          </div>
+        </div>
+        <div class="col-md-3 mb-5">
+          <div >
+            <img class="img-fluid creative-img" src="assets/Images/albumss/logo-kitabisa.png">
+          </div>
+        </div>
+        <div class="col-md-3 mb-5">
+          <div >
+            <img class="img-fluid creative-img" src="assets/Images/albumss/logo-investree.png">
+          </div>
+        </div>
+        <div class="col-md-3 mb-5">
+          <div >
+            <img class="img-fluid creative-img" src="assets/Images/albumss/logo-Mandiri.png">
+          </div>
+        </div>
+        <div class="col-md-3 mb-5">
+          <div >
+            <img class="img-fluid creative-img" src="assets/Images/albumss/logo-Prudential.png">
+          </div>
+        </div>
+        <div class="col-md-3 mb-5">
+          <div >
+            <img class="img-fluid creative-img" src="assets/Images/albumss/logo-ovo.png">
+          </div>
+        </div>
+        <div class="col-md-3 mb-5">
+          <div >
+            <img class="img-fluid creative-img" src="assets/Images/albumss/logo-OT.png">
+          </div>
+        </div>
+        <div class="col-md-3 mb-5">
+          <div >
+            <img class="img-fluid creative-img" src="assets/Images/albumss/logo-cimb_niaga.png">
+          </div>
+        </div>
+        <div class="col-md-3 mb-5">
+          <div >
+            <img class="img-fluid creative-img" src="assets/Images/albumss/logo-Telkom_Indonesia.png">
+          </div>
+        </div>
+        <div class="col-md-3 mb-5">
+          <div >
+            <img class="img-fluid creative-img" src="assets/Images/albumss/logo-dana.png">
+          </div>
+        </div>
+        <div class="col-md-3 mb-5">
+          <div >
+            <img class="img-fluid creative-img" src="assets/Images/albumss/logo-Indomaret.png">
+          </div>
+        </div>
+        <div class="col-md-3 mb-5">
+          <div >
+            <img class="img-fluid creative-img" src="assets/Images/albumss/logo-Astra_Honda_motor.png">
+          </div>
+        </div>
+    
+      </div>
+    </div>
+  </section>
+
   <!-- ======= Banner 2 Section ======= -->
   <section class="mt-5 mb-5" id="subscribe-2">
     <div class="container wow fadeInUp mb-4 mt-5">
@@ -339,6 +451,36 @@
     </div>
   </section><!-- End Subscrbe Section -->
 
+  <section id="inst-app">
+    <div class="container">
+        <div class="col-md-12">
+
+        <div class="row">
+            <div class="col-md-6 mt-3">
+              <div class="phone">
+                <img src="assets/Images/albumss/illustration9.png" width="600px" alt="download-mobile-app-sjc">
+              </div>
+            </div>
+
+            <div class="col-md-6 mb-5">
+              <div class="desc-phone">
+                <h3 class="inst-title">
+                 Download aplikasi Sekolah <br> Coding Jakarta!
+                </h3>
+                
+                <div class=" mt-4 subscribe-btn-container">
+                  <a class="download-btn" href="">Download Sekarang</a>
+                </div>
+              </div>
+            </div>
+         
+        </div>
+      </div>
+    </div> 
+
+  </section>
+
+
   <!-- ======= Contact Section ======= -->
 
   <!--alert messages start-->
@@ -346,10 +488,10 @@
     <!--alert messages end-->
 
     <!--contact section start-->
-    <div class="contact-section mt-5 mb-2" id="contact-us">
+    <div class="contact-section mt-4 mb-2" id="contact-us">
       <div class="contact-info">
         <div><i class="fas fa-map-marker-alt"></i> Cipete, Jakarta Selatan, Indonesia</div>
-        <div><i class="fas fa-envelope"></i> >tryexample15@gmail.com</div>
+        <div><i class="fas fa-envelope"></i> tryexample15@gmail.com</div>
         <div><i class="fas fa-phone"></i> +62 12344321 </div>
         <div><i class="fas fa-clock"></i>Mon - Fri 8:00 AM to 4:00 PM</div>
       </div>

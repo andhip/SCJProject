@@ -186,7 +186,7 @@
               <div class="pic"><a href="https://andhip.github.io/links/"><img src="assets/Images/albumss/team1.jpg"
                     alt=""></a></div>
               <h4>Andhi Puspianto</h4>
-              <span>CEO/Senior Developer</span>
+              <span>CEO/Sr. Developer</span>
               <div class="social">
                 <a href="https://twitter.com/Andynhov1"><i class="fab fa-twitter"></i></a>
                 <a href="https://web.facebook.com/andhi.puspianto?_rdc=1&_rdr"><i class="fab fa-facebook"></i></a>
@@ -202,7 +202,7 @@
             <div class="member">
               <div class="pic"><img src="assets/Images/albumss/team2.jpg" alt=""></div>
               <h4>Sukma G. P</h4>
-              <span>Product Manager</span>
+              <span>Graphic Designer</span>
               <div class="social">
                 <a href=""><i class="fab fa-twitter"></i></a>
                 <a href=""><i class="fab fa-facebook"></i></a>
@@ -216,7 +216,7 @@
             <div class="member">
               <div class="pic"><img src="assets/Images/albumss/team4.jpg" alt=""></div>
               <h4>Gilang F. A</h4>
-              <span>Senior Cyber Security </span>
+              <span>Cyber Security </span>
               <div class="social">
                 <a href=""><i class="fab fa-twitter"></i></a>
                 <a href=""><i class="fab fa-facebook"></i></a>
