@@ -53,8 +53,8 @@
         <h1>Welcome to Administrator</h1>
         <h4>Lakukan Perubahan Data:</h4>
         <div class="actions">
-          <a href="galeri.php" class="btn-services">Update Berita</a>
-          <a href="ppdb.html" class="btn-services">Update Galeri</a>
+          <a href="berita.php" class="btn-services">Update Berita</a>
+          <a href="galeri.php" class="btn-services">Update Galeri</a>
       
           </div>
         </div>
