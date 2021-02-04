@@ -17,7 +17,7 @@
     }
 
     div{
-        margin-top: 7%; 
+        margin-top: 6.5%; 
         text-align: center; 
         letter-spacing: 0.25px;
        
@@ -29,7 +29,13 @@
         font-size:20px;
 
     }
-    
+    p {
+        font-family: 'Nunito', sans-serif;
+        color: red;  
+        font-size: 16px; 
+        font-weight: 400; 
+        margin-top: 2rem; 
+    }
     .submit {
         align-items:center !important;
         margin-top: 2rem;
@@ -59,7 +65,7 @@
     form{
         display:inline-block;
         border-radius: 30px; 
-        padding: 78px 32px 55px;
+        padding: 78px 36px 63px;
         background-color: #081629;
         box-shadow:  3px 50px 60px #30373e96;
 
@@ -98,10 +104,10 @@
 
 <body>
     
-    <?php $teks=""; ?>
-    <div mtehod="post" action="login.php">
-    <h2>Login</h2>
-    <form style="margin-top : 20px; margin-right: 50px; margin-left: 40px; " method="post" action="login.php">
+    <?php $alert=""; ?>
+    <div mtehod="post" action="logadmin.php">
+    <h2 style="font-family: 'Nunito', sans-serif; ">Login Admin</h2>
+    <form style="margin-top : 20px; margin-right: 50px; margin-left: 40px; " method="post" action="logadmin.php">
     <table>
         <tr><td style="float:left;">Id User: </td><td><input type="text" name="iduser"></td></tr>
         <tr><td style="float:left;">Password: </td><td><input type="password" name="password"></td></tr>
@@ -110,25 +116,27 @@
     </form>
 
     <?php
-    if(isset($_POST['login'])){
-        include("config.php");
-        $iduser = $_POST['iduser'];
-        $password = $_POST['password'];
+    include("config.php");
 
-        $hasil = mysqli_query($mysqli, "SELECT * FROM password WHERE iduser='".$iduser."' AND password='".$password."'");
+    if(isset($_POST['login'])){
+        
+        $iduser = mysqli_real_escape_string ($conn, $_POST['iduser']);
+        $password =  mysqli_real_escape_string ($conn, $_POST['password']);
+
+        $hasil = mysqli_query($conn, "SELECT * FROM user WHERE iduser='".$iduser."' AND password='".$password."'");
         while($user_data = mysqli_fetch_array($hasil)) {
             $status=$user_data['status'];
         }
         if(empty($status)){
-            $teks="Id Anda belum terdaftar atau password salah";
+            $alert="Maaf Id atau password yang Anda masukan belum terdaftar atau  salah! <br> silahkan check kembali";
         }
-        else if ($status=="user") {header("Location:LihatData.php");}
-        else if ($status=="admin") {header("Location:LihatDataAdmin.php");}
+        
+        else  ($status=="admin") {header("Location:homeadmin.php")};
 
     }
     ?>
 
-    <p style="color: red;  font-size 12px; font-weight: 400; height: 20px;">  <?php echo "$teks"; ?></p>
+    <p >  <?php echo "$alert"; ?></p>
 
 
     </div>
