@@ -55,7 +55,7 @@
          
           <li class="nav-item" id="nav-item"><a class="nav-link" href="berita.php"> Berita </a></li>
           <li class="nav-item" id="nav-item"><a class="nav-link" href="galeri.php"> Galeri </a></li>
-          <li class="nav-item" id="nav-item"><a class="nav-link" id="kontak" href="#"> Logout </a></li>
+          <li class="nav-item" id="nav-item"><a class="nav-link"  href="logout.php"> Logout </a></li>
 
         </ul>
       </div>

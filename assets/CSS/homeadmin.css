@@ -81,20 +81,22 @@ body{
     margin: 10px;
     box-shadow:  2px 7px 20px #b1b1b13b;
   }
+
+#hero .nav .logout{
+  position: absolute;
+  margin: 1.2rem;
+} 
   
-  #hero .btn-get-started {
-    background: #1570e7;
-    border: 2px solid #1570e7;
-    color: #fff;
-  }
-  
-  #hero .btn-get-started:hover {
-    background: none;
-    border: 2px solid #fff;
-    color: #fff;
-    text-decoration: none;
-  }
-  
+#hero  .logout{
+  top: 0%;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 15px;
+  padding: 6px 14px;
+  border-radius: 2px;
+  transition: 0.5s;
+  box-shadow:  2px 7px 20px #b1b1b13b;
+}
   
 #hero .btn-services {
   border: 2px solid #fff;
@@ -107,4 +109,34 @@ body{
   text-decoration: none;
 }
 
-  
+
+@media (max-width: 767px) {
+  #hero .nav .logout{
+    position: absolute;
+    margin: 1rem;
+  } 
+    
+  #hero  .logout{
+    top: 0%;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 12px;
+    padding: 4px 10px;
+    border-radius: 2px;
+    transition: 0.5s;
+    box-shadow:  2px 7px 20px #b1b1b13b;
+  }
+
+    
+  #hero .actions a {
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 14px;
+    display: inline-block;
+    padding: 6px 18px;
+    border-radius: 2px;
+    transition: 0.5s;
+    margin: 10px;
+    box-shadow:  2px 7px 20px #b1b1b13b;
+  }
+}

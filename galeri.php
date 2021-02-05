@@ -56,7 +56,7 @@
          
           <li class="nav-item" id="nav-item"><a class="nav-link" href="berita.php"> Berita </a></li>
           <li class="nav-item" id="nav-item"><a class="nav-link" href="galeri.php"> Galeri </a></li>
-          <li class="nav-item" id="nav-item"><a class="nav-link" id="kontak" href="#"> Logout </a></li>
+          <li class="nav-item" id="nav-item"><a class="nav-link" href="logout.php"> Logout </a></li>
 
         </ul>
       </div>
@@ -64,16 +64,6 @@
   </nav>
   <!-- END NAVIGATION -->
 
-  <!-- HERO -->
-  <!-- <div class="container justify-content-center mt-5 mb-2 video-bg">
-    <div class="row">
-      <video width="100%" height="100%"" autoplay controls loop poster=" assets/Images/albumss/code4life.jpg"
-        id="videobg">
-        <source src="assets/Images/albumss/video/videoplayback.mp4" type="video/mp4">
-
-      </video>
-    </div>
-  </div> -->
   <!-- SECTION CONTENT -->
   <section class="content mt-5 mb-5">
     <div class="container">

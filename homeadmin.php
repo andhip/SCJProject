@@ -45,10 +45,14 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero">
     <div class="hero-container">
+      <div class="nav">
+      <a href="logout.php" class="btn-services logout">Logout</a>
+      </div>
       <div class="wow fadeIn">
         <div class="hero-logo">
           <img class="mb-1" src="assets/Images/logo/scjbwhite.png" width="25%" alt="SCJ-Logo-by-Andynhov">
         </div>
+      
 
         <h1>Welcome to Administrator</h1>
         <h4>Lakukan Perubahan Data:</h4>
