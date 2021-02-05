@@ -119,7 +119,7 @@
           <div class="container ">
             <div class="row">
               <div class="col-md-12">
-                <h3 class="section-title">Raih karir impian bersama Sekolah Coding Jakarta</h3>
+                <center><h3 class="section-title">Raih karir impian bersama Sekolah Coding Jakarta</h3></center>
                 <div class="section-title-divider mb-5"></div>
               
               </div>

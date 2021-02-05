@@ -361,7 +361,7 @@ header .list-inline .list-inline-item {
     padding: 80px 0;
   }
   
-  #about h3.section-title {
+  .content #about h3 {
     justify-content: center !important;
     align-items: center !important;
   }
@@ -703,7 +703,8 @@ header .list-inline .list-inline-item {
   #inst-app img {
     height: auto;
     margin-left: 0;
-    width: 450px;
+    right: 20px !important;
+    width: 440px;
   }
   #inst-app h3{
     font-size: 24px;
@@ -799,10 +800,10 @@ header .list-inline .list-inline-item {
     transition: .3s ease-in-out;
     border: 12px solid #fff;
     border-radius: 30px;
-    box-shadow:  -1px 2px 5px 1px #ececec ;
+    box-shadow:  -1px 2px 4px 1px #ececece5 ;
   }
   #team .member:hover{
-    box-shadow: -1px 4px 10px 2px rgba(100, 100, 100, 0.575); 
+    box-shadow: -1px 4px 10px 2px rgba(100, 100, 100, 0.411); 
   }
   
   #team .member .pic {
@@ -811,9 +812,14 @@ header .list-inline .list-inline-item {
     overflow: hidden;
     height: 260px;
     border-radius: 12px;
-    filter: -webkit-filter grayscale(86%);
-    filter: grayscale(86%);
+    filter: -webkit-filter grayscale(80%);
+    filter: grayscale(80%);
+    transition: ease-in-out 0.3s;
    
+  }
+  #team .member .pic:hover{
+    filter: -webkit-filter grayscale(30%);
+    filter: grayscale(30%);
   }
   /* #team .member .pic:hover {
     box-shadow: -1px 4px 10px 2px rgba(100, 100, 100, 0.575);   
@@ -1050,6 +1056,24 @@ h5.card-title a:hover{
 }
 .card {
     font-family: 'Roboto', sans-serif;
+}
+.card-content img{
+  filter: -webkit-filter grayscale(88%);
+  filter: grayscale(88%);
+  transition: ease-in-out 0.4s;
+}
+.card-headmaster img{
+  filter: -webkit-filter grayscale(82%);
+  filter: grayscale(82%);
+  transition: ease-in-out 0.4s;
+}
+.card-headmaster img:hover{
+   filter: -webkit-filter grayscale(20%);
+  filter: grayscale(20%);
+}
+.card-content img:hover{
+  filter: -webkit-filter grayscale(20%);
+  filter: grayscale(20%);
 }
 
 .card-content {

@@ -23,6 +23,15 @@
        
     }
 
+    @media (max-width: 768px){
+        div{
+        margin-top: 12%; 
+        text-align: center; 
+        letter-spacing: 0.25px;
+       
+        }
+    }
+
     div, h3 {
         display:inline-block;
         color: #081629;

@@ -410,7 +410,7 @@
 
                       <div class="carousel-inner">
                         <div class="carousel-item active">
-                          <img class="d-block w-100" src="assets/Images/albums/assets/Images/albumss/kegiatan-perpus.jpg" alt="First slide">
+                          <img class="d-block w-100" src="assets/Images/albumss/kegiatan-perpus.jpg" alt="First slide">
                         </div>
                       </div>
                       <a class="carousel-control-prev" href="#carouselExample7" role="button" data-slide="prev">

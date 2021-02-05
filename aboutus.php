@@ -123,7 +123,7 @@
       <div class="row">
 
         <!-- ======= About Section ======= -->
-        <section id="about" style="border-radius: 26px;">
+        <section id="about" style="border-radius: 28px;">
           <div class="container wow fadeInUp">
             <div class="row">
               <div class="col-md-12">
