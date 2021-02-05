@@ -172,7 +172,7 @@
 
             </div>
             <p>
-              Ada beberapa media untuk membantumu meningkatkan kemampuan dalam membangun sebuah aplikasi di Sekolah Coding
+              Beberapa media untuk membantumu meningkatkan kemampuan dalam membangun sebuah aplikasi di Sekolah Coding
               Jakarta.
             </p>
           </div>
@@ -224,7 +224,7 @@
 
             </div>
             <p>
-              Beberapa pilihan kelas di Sekolah Coding Jakarta
+              Pilihan kelas di Sekolah Coding Jakarta
             </p>
           </div>
         </div>
