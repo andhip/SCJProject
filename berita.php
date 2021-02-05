@@ -39,44 +39,10 @@
 
 <body>
 
-  <!-- HEADER -->
-
-  <header class="section-header py-4">
-    <div class="container">
-      <div class="row align-items-center">
-        <div class="col-md-5 col-sm-12 col-xs-12">
-          <div class="top-header">
-            <img class="mr-4 mb-3 mt-0" src="assets/Images/logo/scjblck.png" alt="logo-MIM-01">
-            <ul class="list-unstyled top-left">
-              <li>
-                <h5 class="font-weight-bold brand">Sekolah Coding Jakarta</h5>
-              </li>
-              <li class="moto">
-                <small id="moto">Creative, Up To Date Dan Terpercaya</small>
-              </li>
-            </ul>
-          </div>
-        </div>
-        <div class="col-md-7 col-sm-12 col-xs-12">
-          <ul class="list-inline float-right top-right">
-            <li class="list-inline-item pl-3 pr-0">
-              <i class="fa fa-envelope ctc"></i> tryexample15@gmail.com
-            </li>
-            <li class="list-inline-item pl-3 pr-0">
-              <i class="fa fa-phone ctc"></i> (021) 12344321
-            </li>
-
-          </ul>
-        </div>
-      </div>
-    </div>
-  </header>
-  <!-- END HEADER-->
-
   <!-- START NAVIGATION -->
   <nav class="navbar navbar-expand-lg  sticky-top">
     <div class="container">
-      <a class="navbar-home" href="index.php">
+      <a class="navbar-home" href="homeadmin.php">
         <span class="fa fa-home"></span> Home
       </a>
       <button class="navbar-toggler navbar-dark" type="button" data-toggle="collapse" data-target="#main_nav"
@@ -86,35 +52,17 @@
       <div class="collapse navbar-collapse" id="main_nav">
 
         <ul class="navbar-nav ml-auto">
-          <li class="nav-item dropdown">
-            <a class="nav-link  dropdown-toggle" href="#" data-toggle="dropdown" aria-expanded="true"> Profil </a>
-            <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="aboutus.php"> Tentang Kami</a></li>
-              <li><a class="dropdown-item" href="visimisi.html"> Visi Dan Misi</a></li>
-              <li><a class="dropdown-item" href="mediabelajar.html">Media Pembelajaran</a></li>
-              <li><a class="dropdown-item" href="sanpras.html"> Sarana Dan Prasarana</a></li>
-            </ul>
-          </li>
-
-          <li class="nav-item dropdown">
-            <a class="nav-link  dropdown-toggle" href="#" data-toggle="dropdown"> Info </a>
-            <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="statistik.html"> Lulusan</a></li>
-              <li><a class="dropdown-item" href="kurikulum.html"> Kurikulum</a></li>
-              <li><a class="dropdown-item" href="team.html"> Team Kami</a></li>
-            </ul>
-          </li>
-
-          <li class="nav-item" id="nav-item"><a class="nav-link" href="berita.html"> Berita </a></li>
-          <li class="nav-item" id="nav-item"><a class="nav-link" href="ppdb.html"> Daftar </a></li>
-          <li class="nav-item" id="nav-item"><a class="nav-link" href="galeri.html"> Galeri </a></li>
-          <li class="nav-item" id="nav-item"><a class="nav-link" id="kontak" href="#contact"> Contact </a></li>
+         
+          <li class="nav-item" id="nav-item"><a class="nav-link" href="berita.php"> Berita </a></li>
+          <li class="nav-item" id="nav-item"><a class="nav-link" href="galeri.php"> Galeri </a></li>
+          <li class="nav-item" id="nav-item"><a class="nav-link" id="kontak" href="#"> Logout </a></li>
 
         </ul>
       </div>
     </div>
   </nav>
   <!-- END NAVIGATION -->
+
 
 
   <!-- SECTION CONTENT -->
@@ -458,85 +406,13 @@
 
   <!-- Footer -->
   <footer id="contact">
-    <div class="container-fluid primary-footer">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-4 col-xs-12 text-md-left mb-2 mt-4">
-            <h6 class="page-title"> Hubungi Kami</h6>
-            <p>Sekolah Coding Jakarta</p>
-            <div class="heading-underline-contact mt-3" style=" margin-left: 0%;"> </div>
-
-            <dl class="row">
-              <dt class="col-lg-4 col-md-4 col-sm-12">
-                <span class="fa fa-map-marker"></span> Alamat
-              </dt>
-              <dd class="col-lg-8 col-md-8 col-sm-12">
-                Jln. Cipete Raya V no. 2, RT.3/RW.8, Cipete Sel., Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus
-                Ibukota Jakarta 12410
-              </dd>
-              <dt class="col-lg-4 col-md-4 col-sm-12">
-                <span class="fa fa-phone"></span> Telephone
-              </dt>
-              <dd class="col-lg-8 col-md-8 col-sm-12">(021) 12344321</dd>
-              <dt class="col-lg-4 col-md-4 col-sm-12">
-                <span class="fa fa-envelope"></span> Email
-              </dt>
-              <dd class="col-lg-8 col-md-8 col-sm-12">tryexample15@gmail.com</dd>
-            </dl>
-          </div>
-
-          <div class="col-md-4 col-xs-12 text-md-left mb-2 mt-4 tags-title">
-            <h6 class="page-title">Tags</h6>
-            <p>Halaman Terkait</p>
-            <div class="heading-underline-contact mt-3" style=" margin-left: 0%;"> </div>
-
-            <div class="tag-content-block tag">
-              <a href="berita.html">Berita</a>
-              <a href="kurikulum.html">Kerikulum</a>
-              <a href="galeri.html">Galeri</a>
-            </div>
-          </div>
-
-          <div class="col-md-4 col-xs-12 text-md-left mb-2 mt-4">
-            <h6 class="page-title">Ikuti Kami</h6>
-            <div class="heading-underline-contact mt-3" style=" margin-left: 0%;"> </div>
-
-            <ul class="list-unstyled">
-              <li class="float-left">
-                <a href="#" title="facebook">
-                  <i class="fab fa-facebook social-icon Facebook" aria-hidden="true"></i>
-                </a>
-              </li>
-              <li class="float-left">
-                <a href="https://www.instagram.com/Andynhov" title="instagram">
-                  <i class="fab fa-instagram social-icon Instagram" aria-hidden="true"></i>
-                </a>
-              </li>
-              <li class="float-left">
-                <a href="#" title="Twitter">
-                  <i class="fab fa-twitter social-icon Twitter" aria-hidden="true"></i>
-                </a>
-              </li>
-              <li class="float-left">
-                <a href="https://www.linkedin.com/in/andhi-puspianto-6a85b61a3/" title="LinkedIn">
-                  <i class="fab fa-linkedin social-icon LinkedIn" aria-hidden="true"></i>
-                </a>
-              </li>
-
-            </ul>
-          </div>
-
-
-        </div>
-      </div>
-    </div>
-
+    
     <!-- COPYRIGHT -->
     <div class="container-fluid secondary-footer">
       <div class="container copyright">
         <div class="row">
           <div class="col-md-6 col-xs-12 text-md-left text-center"> Copyright © 2021
-            <a href="index.html">Sekolah Coding Jakarta</a> All rights reserved
+            <a href="#">Sekolah Coding Jakarta</a> All rights reserved
           </div>
           <div class="col-md-6 col-xs-12 text-md-right text-center">
             Built with
