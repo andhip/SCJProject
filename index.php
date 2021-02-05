@@ -135,16 +135,17 @@
               <div class="col-md-6 about-content mt-2">
                 <h6 class="about-title">Tempat belajar coding terbaik di Indonesia</h6>
                 <p class="about-text">
-                  Selamat datang kaula muda para generasi penerus bangsa.  Salam teknologi untuk kita semua.
+                  Selamat datang kaula muda. Salam teknologi untuk kita semua.
                 </p>
+                <p>Raih karir impian bersama Sekolah Coding Jakarta</p>
+                <ul>
+                <li><p>Interactive learning</p></li>
+                <li><p>Kurikulum sesuai tren teknologi </p></li>
+                <li><p>Diskusi bersama fasilitator</p></li>
+                <li><p>Dibantu cari kerja setelah lulus</p></li>
+                </ul>
                 <p class="about-text">
-                 
-                  Website resmi Sekolah Coding Jakarta.
-                  Tempat para programmers indonesia berkarya. Website ini didedikasikan untuk tugas akhir matakuliah pemrograman web yang di ajar langsung oleh Bapak Akhmad Rizal Dzikrullah.
-                </p>
-                <p class="about-text">
-                Semoga Website ini bisa bermanfaat bagi para pengguna dan stakeholder untuk mengumpulkan informasi seputar Sekolah Coding Jakarta.
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Autem saepe voluptates atque reprehenderit beatae officia pariatur quaerat suscipit, quia quam soluta assumenda molestias necessitatibus ex fuga, similique a, consequatur quos?
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit cumque voluptate officia rerum.  dolores iure tempora. Sunt quia Necessitatibus blanditiis distinctio, laboriosam cum minus magni reiciendis, consequuntur  ducimus obcaecati tempore eveniet sun similique voluptatum, placeat eum nostrum  ut assumenda quiat  dolore? Corporis autem  tenetur placeat.
                 </p>
               </div>
             </div>
