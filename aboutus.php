@@ -143,7 +143,7 @@
               <div class="col-md-6 about-content">
                 <h2 class="about-title">Tempat belajar coding terbaik di Indonesia</h2>
                 <p class="about-text">
-                  Selamat datang kaula muda para generasi penerus bangsa. Salam teknologi untuk kita semua.
+                  Selamat datang kaula muda. Salam teknologi untuk kita semua.
                 </p>
                 <p class="about-text">
 
@@ -155,8 +155,10 @@
                   Excepteur sint occaecat cupidatat non
                   proident, sunt in culpa qui officia deserunt mollit anim
                   id est laborum
+                  <p class="about-text">
                   Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-                  voluptate iat nulla pariatur.
+                  voluptate iat nulla pariatur.Duis aute irure dolor in reprehenderit.
+                  </p>
                 </p>
               </div>
             </div>
