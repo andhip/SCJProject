@@ -124,12 +124,6 @@ header .list-inline .list-inline-item {
     font-size: 14px;
 }
 
-/* ======background-tentnagkami-======= */
-/* #background-2{ 
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../Images/albumss/background6.jpg) center;
-  background-position: center;
-  background-size: cover;
-} */
 
 /* ===========NAVIGATION========== */
 
@@ -374,7 +368,7 @@ header .list-inline .list-inline-item {
     max-width: 100%;
     border: 14px solid #fff;
     border-radius: 30px;
-    box-shadow:  -1px 2px 5px 1px #ececec ;
+    box-shadow:  -1px 2px 4px 1px #ececec8c ;
   }
   
   
