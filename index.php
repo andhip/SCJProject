@@ -46,14 +46,14 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero">
     <div class="hero-container">
-      <div class="wow fadeIn">
+      <div class="cont-greeting">
         <div class="hero-logo">
           <img class="mb-1" src="assets/Images/logo/scjbwhite.png" width="25%" alt="SCJ-Logo-by-Andynhov">
         </div>
 
         <h1>Welcome to Sekolah Coding Jakarta</h1>
         <h4>We teach all about development</h4>
-        <div class="actions">
+        <div class="actions" id="div">
           <a href="#about" class="btn-get-started">Get Strated</a>
           <a href="ppdb.html" class="btn-services">Join Us</a>
       
@@ -119,7 +119,7 @@
           <div class="container ">
             <div class="row">
               <div class="col-md-12">
-                <center><h3 class="section-title">Raih karir impian bersama Sekolah Coding Jakarta</h3></center>
+                <center><h3 class="section-title mt-4">Raih karir impian bersama Sekolah Coding Jakarta</h3></center>
                 <div class="section-title-divider mb-5"></div>
               
               </div>
@@ -129,7 +129,7 @@
             <div class="row">
 
               <div class="col-lg-6 about-img">
-                <img src="assets/Images/albumss/about.jpg" alt="about-scj">
+                <img src="assets/Images/albumss/imac.png" alt="about-scj">
               </div>
 
               <div class="col-md-6 about-content mt-2">
@@ -147,7 +147,7 @@
                 <p class="about-text">
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit cumque voluptate officia rerum.  dolores iure tempora.
                 </p>
-                <p class="about-text">Sunt quia Necessitatibus blanditiis distinctio, laboriosam cum minus magni reiciendis, consequuntur  ducimus obcaecati tempore.</p>
+                <p class="about-text">Sunt quia Necessitatibus blanditiis distinctio, laboriosam cum minus magni reiciendis.</p>
               </div>
             </div>
           </div>

@@ -12,7 +12,6 @@
       background-attachment: fixed;
     }
   }
-  
   #hero .hero-logo {
     margin: 20px;
   }
@@ -22,7 +21,7 @@
   }
   
   #hero .hero-container {
-    background: rgba(0, 0, 0, 0.616);
+    background: rgba(0, 0, 0, 0.620);
     display: table-cell;
     margin: 0;
     padding: 0;
