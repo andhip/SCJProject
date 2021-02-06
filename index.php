@@ -129,10 +129,10 @@
             <div class="row">
 
               <div class="col-lg-6 about-img">
-                <img src="assets/Images/albumss/imac.png" alt="about-scj">
+                <img src="assets/Images/albumss/iMac.png" alt="about-scj">
               </div>
 
-              <div class="col-md-6 about-content mt-2">
+              <div class="col-md-6 about-content mt-5">
                 <h6 class="about-title">Tempat belajar coding terbaik di Indonesia</h6>
                 <p class="about-text">
                   Selamat datang kaula muda. Salam teknologi untuk kita semua.
@@ -147,7 +147,7 @@
                 <p class="about-text">
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit cumque voluptate officia rerum.  dolores iure tempora.
                 </p>
-                <p class="about-text">Sunt quia Necessitatibus blanditiis distinctio, laboriosam cum minus magni reiciendis.</p>
+            
               </div>
             </div>
           </div>
