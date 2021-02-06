@@ -1057,23 +1057,23 @@ h5.card-title a:hover{
 .card {
     font-family: 'Roboto', sans-serif;
 }
-.card-content img{
+.card-content-team img{
   filter: -webkit-filter grayscale(88%);
   filter: grayscale(88%);
   transition: ease-in-out 0.4s;
 }
-.card-headmaster img{
+.card-headmaster-team img{
   filter: -webkit-filter grayscale(82%);
   filter: grayscale(82%);
   transition: ease-in-out 0.4s;
 }
-.card-headmaster img:hover{
+.card-headmaster-team img:hover{
    filter: -webkit-filter grayscale(20%);
   filter: grayscale(20%);
 }
-.card-content img:hover{
-  filter: -webkit-filter grayscale(20%);
-  filter: grayscale(20%);
+.card-content-team img:hover{
+  filter: -webkit-filter grayscale(22%);
+  filter: grayscale(22%);
 }
 
 .card-content {
