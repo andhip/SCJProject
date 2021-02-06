@@ -694,6 +694,9 @@ header .list-inline .list-inline-item {
 }
 
 @media (max-width: 768px) {
+  #inst-app {
+    margin-top: 4rem;
+  }
   #inst-app img {
     height: auto;
     margin-left: 0;

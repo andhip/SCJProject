@@ -137,7 +137,7 @@
             $status=$user_data['status'];
         }
         if(empty($status)){
-            $alert="Maaf Id atau password yang Anda masukan tidak benar! <br> silahkan ulangi kembali.";
+            $alert="Maaf Id atau password yang Anda masukan tidak benar! <br> Pastikan Id atau password Anda sudah terdaftar.";
         }
         
         else  ($status=="admin") {header("Location:homeadmin.php")};

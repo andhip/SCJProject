@@ -3,7 +3,7 @@
     display: table;
     width: 100%;
     height: 100vh;
-    background: url("../Images/albumss/background1.jpg") fixed top center;
+    background: url("../Images/albumss/background2.jpg") fixed top center;
     background-size: cover;
   }
   
@@ -22,7 +22,7 @@
   }
   
   #hero .hero-container {
-    background: rgba(0, 0, 0, 0.726);
+    background: rgba(0, 0, 0, 0.616);
     display: table-cell;
     margin: 0;
     padding: 0;

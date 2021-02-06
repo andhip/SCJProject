@@ -145,8 +145,9 @@
                 <li><p>Dibantu cari kerja setelah lulus</p></li>
                 </ul>
                 <p class="about-text">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit cumque voluptate officia rerum.  dolores iure tempora. Sunt quia Necessitatibus blanditiis distinctio, laboriosam cum minus magni reiciendis, consequuntur  ducimus obcaecati tempore eveniet sun similique voluptatum, placeat eum nostrum  ut assumenda quiat  dolore? Corporis autem  tenetur placeat.
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit cumque voluptate officia rerum.  dolores iure tempora.
                 </p>
+                <p class="about-text">Sunt quia Necessitatibus blanditiis distinctio, laboriosam cum minus magni reiciendis, consequuntur  ducimus obcaecati tempore.</p>
               </div>
             </div>
           </div>
