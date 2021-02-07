@@ -378,7 +378,7 @@ header .list-inline .list-inline-item {
 }
 
 #about .about-title {
-  color: #333;
+  color: rgba(77, 76, 76, 0.959);
   font-weight: 600;
   font-size: 22px;
 }

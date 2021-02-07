@@ -119,7 +119,7 @@
           <div class="container ">
             <div class="row">
               <div class="col-md-12">
-                <center><h3 class="section-title mt-4">Raih karir impian bersama Sekolah Coding Jakarta</h3></center>
+                <center><h3 class="section-title mt-4">Raih Karir Impian Bersama <br> Sekolah Coding Jakarta</h3></center>
                 <div class="section-title-divider mb-5"></div>
               
               </div>
@@ -139,10 +139,10 @@
                 </p>
                 <p>Raih karir impian bersama Sekolah Coding Jakarta</p>
                 <ul>
-                <li><p>Interactive learning</p></li>
-                <li><p>Kurikulum sesuai tren teknologi </p></li>
-                <li><p>Diskusi bersama fasilitator</p></li>
-                <li><p>Dibantu cari kerja setelah lulus</p></li>
+                <li style="color:#808697"><p>Interactive learning</p></li>
+                <li style="color:#808697"><p>Kurikulum sesuai tren teknologi </p></li>
+                <li style="color:#808697"><p>Diskusi bersama fasilitator</p></li>
+                <li style="color:#808697"><p>Dibantu cari kerja setelah lulus</p></li>
                 </ul>
                 <p class="about-text">
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit cumque voluptate officia rerum.  dolores iure tempora.
