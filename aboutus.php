@@ -417,7 +417,7 @@
   <!-- Optional JavaScript -->
   <!-- jQuery first, then Popper.js, then Bootstrap JS -->
    <script defer src="JS/script.js"></script>
-  <script defer src="js/jquery.easing.1.3.js"></script>
+  <script defer src="JS/jquery.easing.1.3.js"></script>
   <script defer src="bootstrap-4.4.1-dist/js/bootstrap.min.js"></script>
   <script defer src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script defer src="assets/vendor/venobox/venobox.min.js"></script>
